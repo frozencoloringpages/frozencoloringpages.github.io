@@ -1,0 +1,44 @@
+.tgm-custom-button {padding: 0 0 5px;}
+.tgm-custom-button i {font-style: normal;font-weight: normal;color: #bfbfbf;}
+.tgm-custom-button span {font-size: 16px;color: #000;}
+.tgm-custom-button a.tgm-custom-button {display: inline-block;border-radius: 3px;border: 1px solid rgba(0,0,0,.4);box-shadow: 0 1px 0 rgba(255,255,255,.4) inset !important;background-color: #006cc9;color: #fff !important;font-size: 13px;font-weight: 400;margin: 0 5px;padding: 4px 10px;text-decoration: none;}
+.tgm-custom-button a.tgm-custom-button:hover {background-color: #0952a9;}
+span.premium-link {color: #00b9eb;}
+body.nikkon-footer-layout-social.widgets-php #nikkon-site-footer-standard, body.nikkon-footer-layout-none.widgets-php #nikkon-site-footer-standard, body.nikkon-footer-layout-none.widgets-php #nikkon-site-footer-social {display: none !important;}
+body.widgets-php .widgets-holder-wrap {box-shadow: none;border: 0;}
+body.widgets-php #sidebar-1, body.nikkon-footer-layout-standard.widgets-php #nikkon-site-footer-standard {border: 1px solid #e5e5e5;box-shadow: 0 1px 1px rgba(0,0,0,.04);}
+.cat_id_note {display: block;font-size: 10px;color: #999;}
+.column-cat_id {width: 15%;}
+.nikkon-admin-notice {position: relative;padding: 20px 15px 25px;border-left-color: #006cc9;}
+.nikkon-notice-renew {background-position: right 55px;}
+.nikkon-notice-close {position: absolute;top: 10px;right: 15px;color: #ababab;font-size: 11px;text-decoration: none;}
+.nikkon-notice-close::after {background: 0 0;color: #72777c;content: "";font: 400 16px/20px dashicons;height: 20px;text-align: center;position: relative;top: 4px;margin: 0 0 0 4px;width: 20px;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
+.nikkon-notice-close:hover::after {color: #c00;}
+.nikkon-admin-notice h4 {margin: 0;font-size: 20px;font-weight: 400;line-height: 1.2;color: #212121;}
+.nikkon-admin-notice h4 span a {color: #00b83f;font-size: 17px;}
+.nikkon-admin-notice h4 b {font-weight: normal;color: #006cc9;}
+.nikkon-admin-notice p {font-size: 15px;margin: 4px 0 0;color: #72777c;}
+.nikkon-admin-notice-blocks::after {display: block;content: "";clear: both;}
+.nikkon-admin-notice-block h5 {margin: 0 0 8px;font-size: 18px;font-weight: 500;line-height: 1.2;color: #212121;}
+.nikkon-admin-notice-blocks {border-top: 1px solid rgba(0,0,0,.08);margin: 20px 0 0px;padding: 24px 10px 5px;}
+.nikkon-admin-notice-block {width: 29%;max-width: 350px;float: left;margin: 0 5% 0 0;}
+.nikkon-nomargin {margin: 0 0 0 2%;width: 30%;}
+.nikkon-admin-notice-block ul {margin: 0 0 20px;padding: 0;}
+.nikkon-admin-notice-block ul li {margin: 0 0 12px;padding: 0;font-size: 15px;}
+.nikkon-admin-notice-block img {box-shadow: 0 1px 8px rgba(0,0,0,.1);border: 1px solid rgba(0,0,0,.12);max-width: 100%;height: auto;}
+.nikkon-admin-notice-block p {font-size: 14px;margin: 0 0 15px;padding: 0;color: #444;}
+.nikkon-admin-notice-btn, .nikkon-admin-notice-btn-top, .nikkon-admin-notice-btn-in {display: inline-block;border-radius: 3px;border: 1px solid rgba(0,0,0,.4);box-shadow: 0 1px 0 rgba(255,255,255,.4) inset !important;background-color: #006cc9;color: #fff !important;font-size: 13px;font-weight: 400;margin: 20px 0 0;padding: 12px 20px 13px;text-decoration: none;}
+.nikkon-admin-notice-btn-in {margin: 0 0 15px;}
+.nikkon-admin-notice-btn-grey {display: inline-block;border-radius: 3px;color: #555;border: 1px solid #ccc;background: #f7f7f7;box-shadow: 0 1px 0 #ccc;font-size: 13px;font-weight: 400;margin: 10px 0 20px;padding: 12px 20px 13px;text-decoration: none;}
+.nikkon-admin-notice-btn:hover, .nikkon-admin-notice-btn-top:hover {background-color: #0952a9;}
+.nikkon-admin-notice-btn-grey:hover {background-color: #f2f2f2;border: 1px solid #a8a8a8;color: #222;}
+.nikkon-notice-renew .nikkon-admin-notice-btn {margin: 15px 0 0;}
+.nikkon-admin-notice p.nikkon-note {margin: 10px 0 -5px;font-size: 12px;}
+.nikkon-admin-notice p.nikkon-note b {color: #006cc9;}
+.nikkon-admin-notice-btn-top {padding: 5px 10px;margin: 5px 0 0;}
+@media only screen and (max-width: 1024px) {.nikkon-admin-notice-block {width: 45%;}
+	.nikkon-admin-notice-block.nikkon-nomargin {display: none;}
+	.nikkon-arrow {background-image: none;}}
+@media only screen and (max-width: 870px) {.nikkon-admin-notice-block {width: 100%;margin: 0 0 30px;}
+	.nikkon-admin-notice-btn {margin: 0 0 10px;}
+	.nikkon-admin-notice-btn-grey {margin: 0 0 -20px;}}
