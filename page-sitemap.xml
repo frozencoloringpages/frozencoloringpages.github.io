@@ -1,53 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//frozencoloringpages.github.io/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//frozencoloringpages.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://frozencoloringpages.github.io/</loc>
+		<loc>http://frozencoloringpages.com/</loc>
 		<lastmod>2020-05-22T12:11:56+00:00</lastmod>
 		<image:image>
-			<image:loc>http://frozencoloringpages.github.io/wp-content/uploads/anim-main.gif</image:loc>
+			<image:loc>http://frozencoloringpages.com/wp-content/uploads/anim-main.gif</image:loc>
 			<image:caption><![CDATA[Frozen characters animation]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://frozencoloringpages.github.io/wp-content/uploads/Arendelle-Castle.png</image:loc>
+			<image:loc>http://frozencoloringpages.com/wp-content/uploads/Arendelle-Castle.png</image:loc>
 			<image:caption><![CDATA[Arendelle Castle map]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://frozencoloringpages.github.io/wp-content/uploads/elsa-main-link.png</image:loc>
+			<image:loc>http://frozencoloringpages.com/wp-content/uploads/elsa-main-link.png</image:loc>
 			<image:title><![CDATA[Elsa coloring pages]]></image:title>
 			<image:caption><![CDATA[Elsa icon]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://frozencoloringpages.github.io/wp-content/uploads/anna-main-link.png</image:loc>
+			<image:loc>http://frozencoloringpages.com/wp-content/uploads/anna-main-link.png</image:loc>
 			<image:title><![CDATA[Anna coloring pages]]></image:title>
 			<image:caption><![CDATA[Anna icon]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://frozencoloringpages.github.io/wp-content/uploads/elsa-anna-3.png</image:loc>
+			<image:loc>http://frozencoloringpages.com/wp-content/uploads/elsa-anna-3.png</image:loc>
 			<image:title><![CDATA[Elsa and Anna coloring pages]]></image:title>
 			<image:caption><![CDATA[Elsa and Anna icon]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://frozencoloringpages.github.io/wp-content/uploads/olaf-main-link-1.png</image:loc>
+			<image:loc>http://frozencoloringpages.com/wp-content/uploads/olaf-main-link-1.png</image:loc>
 			<image:title><![CDATA[Olaf coloring pages]]></image:title>
 			<image:caption><![CDATA[Olaf icon]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://frozencoloringpages.github.io/wp-content/uploads/frozen-2-icon.png</image:loc>
+			<image:loc>http://frozencoloringpages.com/wp-content/uploads/frozen-2-icon.png</image:loc>
 			<image:title><![CDATA[Frozen 2 coloring pages]]></image:title>
 			<image:caption><![CDATA[Frozen 2 exhibition icon]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://frozencoloringpages.github.io/wp-content/uploads/printable-icon.png</image:loc>
+			<image:loc>http://frozencoloringpages.com/wp-content/uploads/printable-icon.png</image:loc>
 			<image:title><![CDATA[Frozen printable coloring pages]]></image:title>
 			<image:caption><![CDATA[Printable exhibition icon]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://frozencoloringpages.github.io/wp-content/uploads/free-icon.png</image:loc>
+			<image:loc>http://frozencoloringpages.com/wp-content/uploads/free-icon.png</image:loc>
 			<image:title><![CDATA[Frozen coloring pages free]]></image:title>
 			<image:caption><![CDATA[Free exhibition icon]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://frozencoloringpages.github.io/wp-content/uploads/sheets-icon.png</image:loc>
+			<image:loc>http://frozencoloringpages.com/wp-content/uploads/sheets-icon.png</image:loc>
 			<image:title><![CDATA[Frozen coloring sheets]]></image:title>
 			<image:caption><![CDATA[Sheets exhibition icon]]></image:caption>
 		</image:image>
