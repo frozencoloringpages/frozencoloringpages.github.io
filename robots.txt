@@ -1,4 +1,4 @@
 ﻿User-agent: *
-Disallow:
+Disallow: /?
 
 Sitemap: http://frozencoloringpages.com/sitemap_index.xml
