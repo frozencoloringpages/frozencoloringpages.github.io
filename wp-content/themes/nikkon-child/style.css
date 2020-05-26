@@ -1,0 +1,90 @@
+/*
+Theme Name: Nikkon Child
+Description: ƒочерн€€ тема дл€ темы Twenty Ten 
+Author: ¬аше им€
+Template: nikkon
+*/
+
+/* @import url("../nikkon/style.css"); */
+
+/* заголовки по центру */
+.entry-header .entry-title {
+  text-align: center
+}
+
+#breadcrumbs {
+	margin: 0;
+	border-bottom: 2px solid rgba(108, 195, 238, 0.4);
+}
+
+.site-header {
+    box-shadow: 0 7px 0px rgba(108, 195, 238, 0.2);
+}
+
+li {
+    list-style-type: none;
+}
+
+.site-boxed {
+    max-width: 1240px;
+    margin: 0 auto;
+    box-shadow: 0 0 18px rgba(108, 195, 238, 0.45);
+    background-color: #4FA9DF0D;
+}
+
+/* .site-container {
+    box-shadow: 0 0 15px rgba(108, 195, 238, 0.25);
+} */
+
+/* .site-footer-bottom-bar {
+	background-color: #4FA9DF0D;
+} */
+
+.hentry:last-child {
+padding: 0;
+}
+
+/* вписывает миниатюру */
+.blog-style-postblock .blog-post-blocks-inner-img {
+    background-size: contain;
+}
+
+/* колич колонок */
+.blog-columns-three .blog-blocks-layout {
+    width: 25%;
+}
+
+/* рамка в ссылках на главной */
+.wp-block-column .wp-block-image {
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+}
+
+/* убрать рамку возле картинок */
+figure {
+    box-shadow: none;
+}
+
+/* отступ и рамка миниатюр в категориях */
+rel_post,
+.blog-style-postblock .blog-post-blocks-inner {
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+    margin: 0 10px 20px;
+}
+
+/* колич колонок в  перелинковке на странице */
+.blog-blocks-layout .li1,
+.blog-blocks-layout .li2 {
+	width: 20%;	
+}
+
+/* колич колонок в  перелинковке на странице в мобил варианте */
+@media only screen and (max-width: 520px) {
+	.blog-blocks-layout .li1,
+	.blog-blocks-layout .li2 {
+        width: 50% !important;
+}}
+
+/* текст без курсива для Похожие раскраски */
+h6 {
+font-style: normal
+}
