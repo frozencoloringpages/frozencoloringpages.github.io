@@ -434,7 +434,7 @@ p.wp-block-subhead {font-size: 1.1em;font-style: italic;opacity: .75;}
 .has-text-align-right {text-align: right;}
 a.pinit-button.custom, a.pinit-button.old_default {text-indent: -9999em !important;}
 a.pinit-button.custom span, a.pinit-button.old_default span {display: block;background-color: transparent !important;background-repeat: no-repeat !important;background-position: 0 0 !important;}
-a.pinit-button.old_default span {background-image: url("//frozencoloringpages.com/wp-content/plugins/jquery-pin-it-button-for-images/css/images/pinit-button.png") !important;}
+a.pinit-button.old_default span {background-image: url("/wp-content/plugins/jquery-pin-it-button-for-images/css/images/pinit-button.png") !important;}
 a.pinit-button.default {display: block;overflow: hidden;text-decoration: none;color: #fff;background-color: #bd081c;}
 a.pinit-button.default:hover {background-color: #a50718;}
 a.pinit-button.default.jpibfi-button-rounded-rectangle, a.pinit-button.default.jpibfi-button-rounded-square {border-radius: 10px;}
@@ -442,7 +442,7 @@ a.pinit-button.default.jpibfi-button-round {border-radius: 50%;}
 a.pinit-button.default [class*=" jpibfi-icon-"], a.pinit-button.default [class^=jpibfi-icon-] {color: #fff;display: block;}
 a.pinit-button.default [class*=" jpibfi-icon-"]:hover, a.pinit-button.default [class^=jpibfi-icon-]:hover {color: #fff;}
 a.pinit-button.default [class*=" jpibfi-icon-"]:before, a.pinit-button.default [class^=jpibfi-icon-]:before {display: block;position: absolute;top: 50%;left: 50%;}
-@font-face {font-family: jpibfi-font;src: url("//frozencoloringpages.com/wp-content/plugins/jquery-pin-it-button-for-images/css/fonts/jpibfi-font.eot?ifsn2k");src: url("//frozencoloringpages.com/wp-content/plugins/jquery-pin-it-button-for-images/css/fonts/jpibfi-font.eot?ifsn2k#iefix") format("embedded-opentype"),url("//frozencoloringpages.com/wp-content/plugins/jquery-pin-it-button-for-images/css/fonts/jpibfi-font.ttf?ifsn2k") format("truetype"),url("//frozencoloringpages.com/wp-content/plugins/jquery-pin-it-button-for-images/css/fonts/jpibfi-font.woff?ifsn2k") format("woff"),url("//frozencoloringpages.com/wp-content/plugins/jquery-pin-it-button-for-images/css/fonts/jpibfi-font.svg?ifsn2k#jpibfi-font") format("svg");font-weight: 400;font-style: normal;}
+@font-face {font-family: jpibfi-font;src: url("/wp-content/plugins/jquery-pin-it-button-for-images/css/fonts/jpibfi-font.eot?ifsn2k");src: url("/wp-content/plugins/jquery-pin-it-button-for-images/css/fonts/jpibfi-font.eot?ifsn2k#iefix") format("embedded-opentype"),url("/wp-content/plugins/jquery-pin-it-button-for-images/css/fonts/jpibfi-font.ttf?ifsn2k") format("truetype"),url("/wp-content/plugins/jquery-pin-it-button-for-images/css/fonts/jpibfi-font.woff?ifsn2k") format("woff"),url("/wp-content/plugins/jquery-pin-it-button-for-images/css/fonts/jpibfi-font.svg?ifsn2k#jpibfi-font") format("svg");font-weight: 400;font-style: normal;}
 [class*=" jpibfi-icon-"], [class^=jpibfi-icon-] {font-family: jpibfi-font !important;speak: none;font-style: normal;font-weight: 400;font-variant: normal;text-transform: none;line-height: 1;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
 .jpibfi-icon-circle:before {content: "";}
 .jpibfi-icon-plain:before {content: "";}
@@ -451,11 +451,11 @@ a.pinit-button.default [class*=" jpibfi-icon-"]:before, a.pinit-button.default [
 .jpibfi-icon-pinterest2:before {content: "";}
 a.pinit-button {position: absolute;display: none;}
 .printomatic {cursor: pointer;}
-.pom-default {background-image: url("//frozencoloringpages.com/wp-content/plugins/print-o-matic/css/print-icon.png");background-repeat: no-repeat;width: 32px;height: 32px;}
-.pom-small {background-image: url("//frozencoloringpages.com/wp-content/plugins/print-o-matic/css/print-icon-small.png");background-repeat: no-repeat;width: 17px;height: 16px;}
-.pom-small-black {background-image: url("//frozencoloringpages.com/wp-content/plugins/print-o-matic/css/print-icon-small-black.png");background-repeat: no-repeat;width: 17px;height: 16px;}
-.pom-small-grey {background-image: url("//frozencoloringpages.com/wp-content/plugins/print-o-matic/css/print-icon-small-grey.png");background-repeat: no-repeat;width: 17px;height: 16px;}
-.pom-small-white {background-image: url("//frozencoloringpages.com/wp-content/plugins/print-o-matic/css/print-icon-small-white.png");background-repeat: no-repeat;width: 17px;height: 16px;}
+.pom-default {background-image: url("/wp-content/plugins/print-o-matic/css/print-icon.png");background-repeat: no-repeat;width: 32px;height: 32px;}
+.pom-small {background-image: url("/wp-content/plugins/print-o-matic/css/print-icon-small.png");background-repeat: no-repeat;width: 17px;height: 16px;}
+.pom-small-black {background-image: url("/wp-content/plugins/print-o-matic/css/print-icon-small-black.png");background-repeat: no-repeat;width: 17px;height: 16px;}
+.pom-small-grey {background-image: url("/wp-content/plugins/print-o-matic/css/print-icon-small-grey.png");background-repeat: no-repeat;width: 17px;height: 16px;}
+.pom-small-white {background-image: url("/wp-content/plugins/print-o-matic/css/print-icon-small-white.png");background-repeat: no-repeat;width: 17px;height: 16px;}
 .printomatictext {cursor: pointer;}
 .printomatictext:hover {text-decoration: underline;}
 html {font-family: sans-serif;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;}
@@ -696,7 +696,7 @@ a.header-cart-contents {color: inherit !important;padding: 12px 15px 18px;displa
 .home-slider-wrap {border-bottom: 1px solid rgba(0,0,0,.08);position: relative;border-top: 1px solid rgba(0,0,0,.08);overflow: hidden;}
 .home-slider-wrap .site-container {position: relative;}
 .site-boxed .home-slider-wrap .site-container {padding: 0;}
-.home-slider-remove {height: 403px !important;overflow: hidden;background-image: url("//frozencoloringpages.com/wp-content/themes/nikkon/images/loader.gif");background-repeat: no-repeat;background-position: center center;}
+.home-slider-remove {height: 403px !important;overflow: hidden;background-image: url("/wp-content/themes/nikkon/images/loader.gif");background-repeat: no-repeat;background-position: center center;}
 .home-slider-remove .home-slider {visibility: hidden;}
 .home-slider-block {background-position: center center;background-size: cover;float: left;position: relative;box-sizing: border-box;color: #fff !important;}
 .home-slider-block-inner {width: 80%;height: 40%;margin: auto;position: absolute;top: 0;bottom: 0;left: 0;right: 0;font-size: 17px;color: inherit;text-align: center;}
@@ -799,7 +799,7 @@ article.page {margin: 0;}
 .blog-alt-layout.blog-alt-odd .post-loop-content {float: left;}
 .blog-alt-layout.blog-alt-even .post-loop-thumbnail {float: right;margin: 0 0 0 2.5%;}
 .blog-alt-layout.blog-alt-even .post-loop-content {float: left;}
-.blog-blocks-wrap-remove {height: 500px !important;overflow: hidden;background-image: url("//frozencoloringpages.com/wp-content/themes/nikkon/images/loader.gif");background-repeat: no-repeat;background-position: center center;}
+.blog-blocks-wrap-remove {height: 500px !important;overflow: hidden;background-image: url("/wp-content/themes/nikkon/images/loader.gif");background-repeat: no-repeat;background-position: center center;}
 .blog-blocks-wrap-inner {margin: 0 -2px;padding: 0;}
 .blog-blocks-wrap-remove .blog-blocks-wrap-inner {visibility: hidden;}
 .blog-blocks-wrap .blog-blocks-layout {float: left;margin: 0 0 4px;padding: 0;position: relative;border: 0;}
@@ -2415,11 +2415,11 @@ a:hover, .nikkon-header-nav ul li a:hover, .content-area .entry-content a:hover,
 .fa-zhihu:before {content: "";}
 .sr-only {border: 0;clip: rect(0,0,0,0);height: 1px;margin: -1px;overflow: hidden;padding: 0;position: absolute;width: 1px;}
 .sr-only-focusable:active, .sr-only-focusable:focus {clip: auto;height: auto;margin: 0;overflow: visible;position: static;width: auto;}
-@font-face {font-family: "Font Awesome 5 Brands";font-style: normal;font-weight: normal;font-display: auto;src: url("//frozencoloringpages.com/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-brands-400.eot");src: url("//frozencoloringpages.com/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-brands-400.eot?#iefix") format("embedded-opentype"),url("//frozencoloringpages.com/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-brands-400.woff2") format("woff2"),url("//frozencoloringpages.com/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-brands-400.woff") format("woff"),url("//frozencoloringpages.com/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-brands-400.ttf") format("truetype"),url("//frozencoloringpages.com/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-brands-400.svg#fontawesome") format("svg");}
+@font-face {font-family: "Font Awesome 5 Brands";font-style: normal;font-weight: normal;font-display: auto;src: url("/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-brands-400.eot");src: url("/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-brands-400.eot?#iefix") format("embedded-opentype"),url("/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-brands-400.woff2") format("woff2"),url("/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-brands-400.woff") format("woff"),url("/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-brands-400.ttf") format("truetype"),url("/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-brands-400.svg#fontawesome") format("svg");}
 .fab {font-family: "Font Awesome 5 Brands";}
-@font-face {font-family: "Font Awesome 5 Free";font-style: normal;font-weight: 400;font-display: auto;src: url("//frozencoloringpages.com/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-regular-400.eot");src: url("//frozencoloringpages.com/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-regular-400.eot?#iefix") format("embedded-opentype"),url("//frozencoloringpages.com/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-regular-400.woff2") format("woff2"),url("//frozencoloringpages.com/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-regular-400.woff") format("woff"),url("//frozencoloringpages.com/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-regular-400.ttf") format("truetype"),url("//frozencoloringpages.com/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-regular-400.svg#fontawesome") format("svg");}
+@font-face {font-family: "Font Awesome 5 Free";font-style: normal;font-weight: 400;font-display: auto;src: url("/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-regular-400.eot");src: url("/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-regular-400.eot?#iefix") format("embedded-opentype"),url("/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-regular-400.woff2") format("woff2"),url("/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-regular-400.woff") format("woff"),url("/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-regular-400.ttf") format("truetype"),url("/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-regular-400.svg#fontawesome") format("svg");}
 .far {font-weight: 400;}
-@font-face {font-family: "Font Awesome 5 Free";font-style: normal;font-weight: 900;font-display: auto;src: url("//frozencoloringpages.com/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-solid-900.eot");src: url("//frozencoloringpages.com/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-solid-900.eot?#iefix") format("embedded-opentype"),url("//frozencoloringpages.com/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-solid-900.woff2") format("woff2"),url("//frozencoloringpages.com/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-solid-900.woff") format("woff"),url("//frozencoloringpages.com/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-solid-900.ttf") format("truetype"),url("//frozencoloringpages.com/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-solid-900.svg#fontawesome") format("svg");}
+@font-face {font-family: "Font Awesome 5 Free";font-style: normal;font-weight: 900;font-display: auto;src: url("/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-solid-900.eot");src: url("/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-solid-900.eot?#iefix") format("embedded-opentype"),url("/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-solid-900.woff2") format("woff2"),url("/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-solid-900.woff") format("woff"),url("/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-solid-900.ttf") format("truetype"),url("/wp-content/themes/nikkon/includes/font-awesome/css/../webfonts/fa-solid-900.svg#fontawesome") format("svg");}
 .fa, .far, .fas {font-family: "Font Awesome 5 Free";}
 .fa, .fas {font-weight: 900;}
 .entry-header .entry-title {text-align: center;}
