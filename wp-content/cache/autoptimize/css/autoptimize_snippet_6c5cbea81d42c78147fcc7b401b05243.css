@@ -236,7 +236,7 @@ a.header-cart-contents {color: inherit !important;padding: 12px 15px 18px;displa
 .home-slider-wrap {border-bottom: 1px solid rgba(0,0,0,.08);position: relative;border-top: 1px solid rgba(0,0,0,.08);overflow: hidden;}
 .home-slider-wrap .site-container {position: relative;}
 .site-boxed .home-slider-wrap .site-container {padding: 0;}
-.home-slider-remove {height: 403px !important;overflow: hidden;background-image: url("/wp-content/themes/nikkon/images/loader.gif");background-repeat: no-repeat;background-position: center center;}
+.home-slider-remove {height: 403px !important;overflow: hidden;background-image: url("//frozencoloringpages.com/wp-content/themes/nikkon/images/loader.gif");background-repeat: no-repeat;background-position: center center;}
 .home-slider-remove .home-slider {visibility: hidden;}
 .home-slider-block {background-position: center center;background-size: cover;float: left;position: relative;box-sizing: border-box;color: #fff !important;}
 .home-slider-block-inner {width: 80%;height: 40%;margin: auto;position: absolute;top: 0;bottom: 0;left: 0;right: 0;font-size: 17px;color: inherit;text-align: center;}
@@ -339,7 +339,7 @@ article.page {margin: 0;}
 .blog-alt-layout.blog-alt-odd .post-loop-content {float: left;}
 .blog-alt-layout.blog-alt-even .post-loop-thumbnail {float: right;margin: 0 0 0 2.5%;}
 .blog-alt-layout.blog-alt-even .post-loop-content {float: left;}
-.blog-blocks-wrap-remove {height: 500px !important;overflow: hidden;background-image: url("/wp-content/themes/nikkon/images/loader.gif");background-repeat: no-repeat;background-position: center center;}
+.blog-blocks-wrap-remove {height: 500px !important;overflow: hidden;background-image: url("//frozencoloringpages.com/wp-content/themes/nikkon/images/loader.gif");background-repeat: no-repeat;background-position: center center;}
 .blog-blocks-wrap-inner {margin: 0 -2px;padding: 0;}
 .blog-blocks-wrap-remove .blog-blocks-wrap-inner {visibility: hidden;}
 .blog-blocks-wrap .blog-blocks-layout {float: left;margin: 0 0 4px;padding: 0;position: relative;border: 0;}
