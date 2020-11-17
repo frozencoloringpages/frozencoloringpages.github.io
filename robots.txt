@@ -1,4 +1,6 @@
 ﻿User-agent: *
-Disallow:
+Disallow: 
+
+Host: frozencoloringpages.com
 
 Sitemap: https://frozencoloringpages.com/sitemap_index.xml
