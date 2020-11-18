@@ -4,7 +4,7 @@
 		<loc>https://frozencoloringpages.com/anna/</loc>
 		<lastmod>2020-07-16T10:18:39+00:00</lastmod>
 		<image:image>
-			<image:loc>https://frozencoloringpages.com/wp-content/uploads/2020/04/anna_room.jpg</image:loc>
+			<image:loc>http://frozencoloringpages.com/wp-content/uploads/2020/04/anna_room.jpg</image:loc>
 			<image:caption><![CDATA[Picture of Anna's room]]></image:caption>
 		</image:image>
 	</url>
@@ -12,7 +12,7 @@
 		<loc>https://frozencoloringpages.com/elsa-and-anna/</loc>
 		<lastmod>2020-06-08T18:38:17+00:00</lastmod>
 		<image:image>
-			<image:loc>https://frozencoloringpages.com/wp-content/uploads/2020/04/elsa-anna-room.jpg</image:loc>
+			<image:loc>http://frozencoloringpages.com/wp-content/uploads/2020/04/elsa-anna-room.jpg</image:loc>
 			<image:caption><![CDATA[Picture of Elsa and Anna's room]]></image:caption>
 		</image:image>
 	</url>
@@ -20,7 +20,7 @@
 		<loc>https://frozencoloringpages.com/elsa/</loc>
 		<lastmod>2020-07-16T07:13:15+00:00</lastmod>
 		<image:image>
-			<image:loc>https://frozencoloringpages.com/wp-content/uploads/2020/04/elsa_room.jpg</image:loc>
+			<image:loc>http://frozencoloringpages.com/wp-content/uploads/2020/04/elsa_room.jpg</image:loc>
 			<image:caption><![CDATA[Picture of Elsa's room]]></image:caption>
 		</image:image>
 	</url>
@@ -48,7 +48,7 @@
 		<loc>https://frozencoloringpages.com/olaf/</loc>
 		<lastmod>2020-05-12T18:53:11+00:00</lastmod>
 		<image:image>
-			<image:loc>https://frozencoloringpages.com/wp-content/uploads/2020/04/olaf-room2.jpg</image:loc>
+			<image:loc>http://frozencoloringpages.com/wp-content/uploads/2020/04/olaf-room2.jpg</image:loc>
 			<image:caption><![CDATA[Picture of Olaf's room]]></image:caption>
 		</image:image>
 	</url>
