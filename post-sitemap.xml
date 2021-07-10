@@ -72,19 +72,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://frozencoloringpages.com/elsa/elsa-frozen-coloring-pages/</loc>
-		<lastmod>2020-05-12T14:30:09+00:00</lastmod>
-		<image:image>
-			<image:loc>https://frozencoloringpages.com/wp-content/uploads/2020/05/Elsa-Frozen-coloring-page-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://frozencoloringpages.com/wp-content/uploads/2020/05/Elsa-Frozen-coloring-page-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://frozencoloringpages.com/wp-content/uploads/2020/05/Elsa-Frozen-coloring-page-3.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://frozencoloringpages.com/anna/princess-anna-coloring-pages/</loc>
 		<lastmod>2020-05-12T14:47:52+00:00</lastmod>
 		<image:image>
@@ -552,6 +539,19 @@
 		<image:image>
 			<image:loc>https://frozencoloringpages.com/wp-content/uploads/Print-Elsa-coloring-pages.jpg</image:loc>
 			<image:caption><![CDATA[Print-Elsa-coloring-pages]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://frozencoloringpages.com/elsa/elsa-frozen-coloring-pages/</loc>
+		<lastmod>2021-07-10T05:53:47+00:00</lastmod>
+		<image:image>
+			<image:loc>https://frozencoloringpages.com/wp-content/uploads/2020/05/Elsa-Frozen-coloring-page-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://frozencoloringpages.com/wp-content/uploads/2020/05/Elsa-Frozen-coloring-page-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://frozencoloringpages.com/wp-content/uploads/2020/05/Elsa-Frozen-coloring-page-3.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
