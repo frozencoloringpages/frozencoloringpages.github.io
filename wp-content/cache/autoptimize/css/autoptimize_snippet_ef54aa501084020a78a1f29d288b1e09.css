@@ -1,0 +1,15 @@
+.entry-header .entry-title {text-align: center;}
+#breadcrumbs {margin: 0;border-bottom: 2px solid rgba(108,195,238,.4);}
+.site-header {box-shadow: 0 7px 0px rgba(108,195,238,.2);}
+li {list-style-type: none;}
+.site-boxed {max-width: 1240px;margin: 0 auto;box-shadow: 0 0 18px rgba(108,195,238,.45);background-color: rgba(79,169,223,.05);}
+.hentry:last-child {padding: 0;}
+.blog-style-postblock .blog-post-blocks-inner-img {background-size: contain;}
+.blog-columns-three .blog-blocks-layout {width: 25%;}
+.wp-block-column .wp-block-image {box-shadow: 0 1px 4px rgba(0,0,0,.4);}
+figure {box-shadow: none;}
+rel_post, .blog-style-postblock .blog-post-blocks-inner {box-shadow: 0 1px 4px rgba(0,0,0,.4);margin: 0 10px 20px;}
+.blog-blocks-layout .li1, .blog-blocks-layout .li2 {width: 20%;}
+@media only screen and (max-width:520px) {.blog-blocks-layout .li1, .blog-blocks-layout .li2 {width: 50% !important;}}
+h6 {font-style: normal;text-align: left;font-size: 32px;margin: 0 0 20px;}
+b {text-align: center;}
